@@ -1,2 +1,2 @@
 # weather-app
- Check your locations weather here
+ Check your location's weather here
